@@ -35,6 +35,10 @@ You need to enable sound to play the video.
 2.  **Select Player:** Run the macro and select the dying player from the list.
 3.  **Choose Your Fate:** The player receives the Death Options screen. Once they click a button, the sequence begins.
 
+<p align="center">
+  <img width="800" src="docs/preview.webp">
+</p>
+
 ---
 
 ## ⚙️ Configuration
